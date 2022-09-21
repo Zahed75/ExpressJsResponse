@@ -45,7 +45,9 @@ app.get("/four",function (req,res){
 });
 
 
-
+app.get("/status_code",function (req,res){
+    res.status(401).end("Unauthorized");
+})
 
 
 app.listen(8000,function () {
