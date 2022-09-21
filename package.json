@@ -1,0 +1,24 @@
+{
+  "name": "expressjsresponse",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000J\u0000s\u0000R\u0000e\u0000s\u0000p\u0000o\u0000n\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zahed75/ExpressJsResponse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zahed75/ExpressJsResponse/issues"
+  },
+  "homepage": "https://github.com/Zahed75/ExpressJsResponse#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
